@@ -17,7 +17,7 @@ public class SimpleGUI extends JFrame{
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
         Container container = this.getContentPane();
-        container.setLayout(new GridLayout(3,));
+     //  container.setLayout(new GridLayout(3,));
 
 
 
